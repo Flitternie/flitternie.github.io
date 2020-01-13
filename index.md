@@ -36,6 +36,6 @@ Generation Based on Abstract Syntax Tree and Hybrid Reranking. arXiv preprint ar
 Email: [lynie8@cse.cuhk.edu.hk](mailto:lynie8@cse.cuhk.edu.hk) / [flitternie@gmail.com](mailto:flitternie@gmail.com)  
 Office: Room 710, William M.W. Mong Engineering Building, CUHK
 
-Computer Science and Engineering Department,  
-The Chinese University of Hong Kong, Shatin, NT, Hong Kong.
+Department of Computer Science and Engineering,  
+The Chinese University of Hong Kong, Shatin, Hong Kong SAR, China
 
