@@ -5,7 +5,7 @@ Hi! I’m Lunyiu Nie, a final year undergraduate student at the Chinese Universi
 
 ## Education
 
-### The Chinese University of Hong Kong <br> Advisor: Prof. Wai Lam and Prof. Leizhen Cai
+### The Chinese University of Hong Kong
 
 #### B.B.A. in Professional Accountancy, Second Major in Computer Science <br> Sep. 2015 – Jul. 2020 
 
@@ -18,7 +18,7 @@ Hi! I’m Lunyiu Nie, a final year undergraduate student at the Chinese Universi
 -	2016 EY Scholarship
 -	2016 Global Learning Award, Wu Yee Sun College
 
-## Publications
+## Publication
 
 ### 2019
 
@@ -28,6 +28,7 @@ Pre-trained Transformer for Contextualized Code Commit Message Generation. (Subm
 Shangqing Liu, Cuiyun Gao, Sen Chen, **Lun Yiu Nie**, and Yang Liu. 2019. ATOM: Commit Message
 Generation Based on Abstract Syntax Tree and Hybrid Reranking. arXiv preprint arXiv: 1912.02972.
 (Under Review of IEEE Transactions on Software Engineering)  [[Paper]](flitternie.github.io/atom.pdf)
+
 
 
 ## Contact
