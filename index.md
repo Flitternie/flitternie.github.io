@@ -1,4 +1,4 @@
-#  Lunyiu Nie [CV](flitternie.github.io/CV.pdf)
+#  Lunyiu Nie [[CV]](flitternie.github.io/CV.pdf)
 
 Hi! I’m Lunyiu Nie, a final year undergraduate student at The Chinese University of Hong Kong. My research advisors are [Prof. Wai Lam](http://www1.se.cuhk.edu.hk/~textmine/) and [Prof. Leizhen Cai](https://www.cse.cuhk.edu.hk/~lcai/). My research interests mainly lie in natural language processing, with particular focuses on the transfer learning of NLP and the intersection of natural langauge and programming language.
 
