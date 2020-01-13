@@ -1,14 +1,13 @@
 #  Lunyiu Nie [[CV]](flitternie.github.io/CV.pdf)
 
-Hi! I’m Lunyiu Nie, a final year undergraduate student at The Chinese University of Hong Kong. My research advisors are [Prof. Wai Lam](http://www1.se.cuhk.edu.hk/~textmine/) and [Prof. Leizhen Cai](https://www.cse.cuhk.edu.hk/~lcai/). My research interests mainly lie in natural language processing, with particular focuses on the transfer learning of NLP and the intersection of natural langauge and programming language.
+Hi! I’m Lunyiu Nie, a final year undergraduate student at the Chinese University of Hong Kong. My research advisors are [Prof. Wai Lam](http://www1.se.cuhk.edu.hk/~textmine/) and [Prof. Leizhen Cai](https://www.cse.cuhk.edu.hk/~lcai/). My research interests mainly lie in natural language processing, with particular focuses on the transfer learning of NLP and the intersection of natural langauge and programming language.
 
 
 ## Education
 
-### The Chinese University of Hong Kong<br>
-*Advisor: Prof. Wai Lam and Prof. Leizhen Cai*
+### The Chinese University of Hong Kong <br> Advisor: Prof. Wai Lam and Prof. Leizhen Cai
 
-#### B.B.A. in Professional Accountancy, Second Major in Computer Science              Sep. 2015 – Jul. 2020 
+#### B.B.A. in Professional Accountancy, Second Major in Computer Science <br> Sep. 2015 – Jul. 2020 
 
 - 2019 Dean's List, The Chinese Unversity of Hong Kong
 -	2019 Master's List, Wu Yee Sun College (1 awardee/major/class)
