@@ -1,0 +1,41 @@
+#  Lunyiu Nie [CV](flitternie.github.io/CV.pdf)
+
+I’m a final year undergraduate student at The Chinese University of Hong Kong. My Advisors are Prof. Wai Lam and Prof. Leizhen Cai. I study double major in Accountancy and Computer Science. My research interest mainly lie in natural language processing, with particular focuses on the transfer learning and the intersection of natural langauge and programming language.
+
+
+## Education
+
+### The Chinese University of Hong Kong    Advisor: Prof. Wai Lam and Prof. Leizhen Cai
+
+#### B.B.A. in Professional Accountancy, Second Major in Computer Science              Sep. 2015 – Jul. 2020 
+
+-   2019 Dean's List, The Chinese Unversity of Hong Kong
+-	2019 Master's List, Wu Yee Sun College (1 awardee/major/class)
+-   2018 Dean's List, The Chinese Unversity of Hong Kong
+-	2018 Department Academic Excellence Scholarship
+-	2017 Department Academic Excellence Scholarship
+-	2017 HKSAR Government Scholarship Reaching Out Award
+-	2016 EY Scholarship
+-	2016 Global Learning Award, Wu Yee Sun College
+
+## Publications
+
+### 2019
+
+**Lun Yiu Nie**, Zhicong Zhang, Cuiyun Gao, Pengcheng Yin, Yang Liu, and Wai Lam. 2019. TARGET:
+Pre-trained Transformer for Contextualized Code Commit Message Generation. (Submitted to ACL 2020)[Paper](flitternie.github.io/target.pdf)
+
+Shangqing Liu, Cuiyun Gao, Sen Chen, **Lun Yiu Nie**, and Yang Liu. 2019. ATOM: Commit Message
+Generation Based on Abstract Syntax Tree and Hybrid Reranking. arXiv preprint arXiv: 1912.02972.
+(Under Review of IEEE Transactions on Software Engineering) [Paper](flitternie.github.io/atom.pdf)
+
+
+## Contact
+
+Computer Science and Engineering Department
+
+The Chinese University of Hong Kong, Shatin, NT, Hong Kong.
+
+Email: lynie8@cse.cuhk.edu.hk / flitternie@gmail.com
+
+Office: Room 710, William M.W. Mong Engineering Building, The Chinese University of Hong Kong
