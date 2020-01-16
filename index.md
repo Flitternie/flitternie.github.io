@@ -2,6 +2,7 @@
 
 Hi! I’m Lunyiu Nie, a final year undergraduate student at the Chinese University of Hong Kong. My research advisors are [Prof. Wai Lam](http://www1.se.cuhk.edu.hk/~textmine/) and [Prof. Leizhen Cai](https://www.cse.cuhk.edu.hk/~lcai/). My research interests mainly lie in natural language processing, with particular focuses on the transfer learning of NLP and the intersection of natural langauge and programming language.
 
+Previously I also worked as a research intern at the Institute of Computing Technology, Chinese Academy of Sciences supervised by [Prof. Yungang Bao](http://acs.ict.ac.cn/baoyg/) and [Prof. Qun Huang](https://huangqundl.github.io/).
 
 ## Education
 
