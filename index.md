@@ -24,11 +24,11 @@ Previously I also worked as a research intern at the Institute of Computing Tech
 ### 2019
 
 **Lun Yiu Nie**, Zhicong Zhang, Cuiyun Gao, Pengcheng Yin, Yang Liu, and Wai Lam. 2019. TARGET:
-Pre-trained Transformer for Contextualized Code Commit Message Generation. (Submitted to ACL 2020)  [[Paper]](flitternie.github.io/target.pdf)
+Pre-trained Transformer for Contextualized Code Commit Message Generation. (Under Review)  [[Paper]](flitternie.github.io/target.pdf)
 
 Shangqing Liu, Cuiyun Gao, Sen Chen, **Lun Yiu Nie**, and Yang Liu. 2019. ATOM: Commit Message
 Generation Based on Abstract Syntax Tree and Hybrid Reranking. arXiv preprint arXiv: 1912.02972.
-(Under Review of IEEE Transactions on Software Engineering)  [[Paper]](flitternie.github.io/atom.pdf)
+(Under Review)  [[Paper]](flitternie.github.io/atom.pdf)
 
 
 
