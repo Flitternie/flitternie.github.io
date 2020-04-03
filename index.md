@@ -1,4 +1,4 @@
-#  Lunyiu Nie [[CV]](flitternie.github.io/NIE Lun Yiu_CV_en.pdf)/[[简历]](flitternie.github.io/NIE Lun Yiu_CV_cn.pdf)
+#  Lunyiu Nie [[CV](flitternie.github.io/NIE Lun Yiu_CV_en.pdf)/[简历](flitternie.github.io/NIE Lun Yiu_CV_cn.pdf)]
 
 Hi! I’m Lunyiu Nie, a final year undergraduate student at the Chinese University of Hong Kong. My research advisors are [Prof. Wai Lam](http://www1.se.cuhk.edu.hk/~textmine/) and [Prof. Leizhen Cai](https://www.cse.cuhk.edu.hk/~lcai/). My research interests mainly lie in natural language processing, with particular focuses on the transfer learning of NLP and the intersection of natural langauge and programming language.
 
@@ -7,13 +7,12 @@ Previously I also worked as a research intern at the Institute of Computing Tech
 ## Education
 
 ### The Chinese University of Hong Kong    
-#### Advisor: Prof. Wai Lam and Prof. Leizhen Cai
 
 #### B.B.A. in Professional Accountancy, Second Major in Computer Science <br> Sep. 2015 – Jul. 2020 
 
-- 2019 Dean's List, The Chinese Unversity of Hong Kong
+-   2019 Dean's List, The Chinese Unversity of Hong Kong
 -	2019 Master's List, Wu Yee Sun College (1 awardee/major/class)
-- 2018 Dean's List, The Chinese Unversity of Hong Kong
+-   2018 Dean's List, The Chinese Unversity of Hong Kong
 -	2018 Department Academic Excellence Scholarship
 -	2017 Department Academic Excellence Scholarship
 -	2017 HKSAR Government Scholarship Reaching Out Award
@@ -25,35 +24,12 @@ Previously I also worked as a research intern at the Institute of Computing Tech
 ### 2019
 
 **Lun Yiu Nie**, Zhicong Zhang, Cuiyun Gao, Pengcheng Yin, Yang Liu, and Wai Lam. 2019. TARGET:
-<<<<<<< HEAD
-Pre-trained Transformer for Contextualized Code Commit Message Generation. (Submitted to ACL 2020)  [Paper](flitternie.github.io/target.pdf)
-
-Shangqing Liu, Cuiyun Gao, Sen Chen, **Lun Yiu Nie**, and Yang Liu. 2019. ATOM: Commit Message
-Generation Based on Abstract Syntax Tree and Hybrid Reranking. arXiv preprint arXiv: 1912.02972.
-(Under Review of IEEE Transactions on Software Engineering)  [Paper](flitternie.github.io/atom.pdf)
-=======
 Pre-trained Transformer for Contextualized Code Commit Message Generation. (Under Review)  [[Paper]](flitternie.github.io/target.pdf)
 
 Shangqing Liu, Cuiyun Gao, Sen Chen, **Lun Yiu Nie**, and Yang Liu. 2019. ATOM: Commit Message
 Generation Based on Abstract Syntax Tree and Hybrid Reranking. arXiv preprint arXiv: 1912.02972.
 (Under Review)  [[Paper]](flitternie.github.io/atom.pdf)
->>>>>>> 36c0492564bf8ed0c0c2ec971a0057deee23acae
 
-## Projects
-
-<<<<<<< HEAD
-##
-
-
-
-## Contact
-
-Email: lynie8@cse.cuhk.edu.hk / flitternie@gmail.com
-Office: Room 710, William M.W. Mong Engineering Building, CUHK
-
-Computer Science and Engineering Department
-The Chinese University of Hong Kong, Shatin, NT, Hong Kong.
-=======
 
 ## Contact
 
@@ -62,5 +38,4 @@ Office: Room 710, William M.W. Mong Engineering Building, CUHK
 
 Department of Computer Science and Engineering,  
 The Chinese University of Hong Kong, Shatin, Hong Kong SAR, China
->>>>>>> 36c0492564bf8ed0c0c2ec971a0057deee23acae
 
