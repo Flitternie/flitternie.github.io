@@ -6,7 +6,8 @@ Previously I also worked as a research intern at the Institute of Computing Tech
 
 ## Education
 
-### The Chinese University of Hong Kong
+### The Chinese University of Hong Kong    
+#### Advisor: Prof. Wai Lam and Prof. Leizhen Cai
 
 #### B.B.A. in Professional Accountancy, Second Major in Computer Science <br> Sep. 2015 – Jul. 2020 
 
@@ -24,13 +25,35 @@ Previously I also worked as a research intern at the Institute of Computing Tech
 ### 2019
 
 **Lun Yiu Nie**, Zhicong Zhang, Cuiyun Gao, Pengcheng Yin, Yang Liu, and Wai Lam. 2019. TARGET:
+<<<<<<< HEAD
+Pre-trained Transformer for Contextualized Code Commit Message Generation. (Submitted to ACL 2020)  [Paper](flitternie.github.io/target.pdf)
+
+Shangqing Liu, Cuiyun Gao, Sen Chen, **Lun Yiu Nie**, and Yang Liu. 2019. ATOM: Commit Message
+Generation Based on Abstract Syntax Tree and Hybrid Reranking. arXiv preprint arXiv: 1912.02972.
+(Under Review of IEEE Transactions on Software Engineering)  [Paper](flitternie.github.io/atom.pdf)
+=======
 Pre-trained Transformer for Contextualized Code Commit Message Generation. (Under Review)  [[Paper]](flitternie.github.io/target.pdf)
 
 Shangqing Liu, Cuiyun Gao, Sen Chen, **Lun Yiu Nie**, and Yang Liu. 2019. ATOM: Commit Message
 Generation Based on Abstract Syntax Tree and Hybrid Reranking. arXiv preprint arXiv: 1912.02972.
 (Under Review)  [[Paper]](flitternie.github.io/atom.pdf)
+>>>>>>> 36c0492564bf8ed0c0c2ec971a0057deee23acae
+
+## Projects
+
+<<<<<<< HEAD
+##
 
 
+
+## Contact
+
+Email: lynie8@cse.cuhk.edu.hk / flitternie@gmail.com
+Office: Room 710, William M.W. Mong Engineering Building, CUHK
+
+Computer Science and Engineering Department
+The Chinese University of Hong Kong, Shatin, NT, Hong Kong.
+=======
 
 ## Contact
 
@@ -39,4 +62,5 @@ Office: Room 710, William M.W. Mong Engineering Building, CUHK
 
 Department of Computer Science and Engineering,  
 The Chinese University of Hong Kong, Shatin, Hong Kong SAR, China
+>>>>>>> 36c0492564bf8ed0c0c2ec971a0057deee23acae
 
