@@ -1,8 +1,13 @@
-#  Lunyiu Nie [[CV](flitternie.github.io/NIE Lun Yiu_CV_en.pdf)/[简历](flitternie.github.io/NIE Lun Yiu_CV_cn.pdf)]
+#  Nie, Lun Yiu  聂麟骁
 
-Hi! I’m Lunyiu Nie, a computer science Master student at Tsinghua University. My research supervisor is [Prof. Jidong Zhai](https://pacman.cs.tsinghua.edu.cn/~zjd/). My research interests mainly lie in the intersection of programming language and natural language.
+Hi! I’m Lunyiu Nie, a computer science Master student at Tsinghua University. My research supervisor is [Prof. Jidong Zhai](https://pacman.cs.tsinghua.edu.cn/~zjd/). My current research interests mainly lie in the intersection of programming language and natural language.
 
 I completed my Bachelor’s Degree study at the Chinese University of Hong Kong, during which I was advised by [Prof. Wai Lam](http://www1.se.cuhk.edu.hk/~textmine/) and [Prof. Helen Meng](https://www.se.cuhk.edu.hk/people/academic-staff/prof-meng-mei-ling-helen/). Previously I also worked as a research intern at the Institute of Computing Technology, Chinese Academy of Sciences supervised by [Prof. Yungang Bao](http://acs.ict.ac.cn/baoyg/) and [Prof. Qun Huang](https://huangqundl.github.io/).
+
+## Contact
+
+Email: [nlx20@mails.tsinghua.edu.cn](mailto:nlx20@mails.tsinghua.edu.cn) / [flitternie@gmail.com](mailto:flitternie@gmail.com)  
+Address: East Main Building, Tsinghua University, Haidian District, Beijing, China
 
 ## Education
 
@@ -20,7 +25,7 @@ I completed my Bachelor’s Degree study at the Chinese University of Hong Kong,
 -	2017, HKSAR Government Scholarship Reaching Out Award
 -	2016, EY Scholarship & Wu Yee Sun College Global Learning Award
 
-## Publication
+## Publication [[DBLP]](https://dblp.org/pid/255/5516.html)
 
 ### 2021
 
@@ -35,8 +40,4 @@ I completed my Bachelor’s Degree study at the Chinese University of Hong Kong,
 Generation Based on Abstract Syntax Tree and Hybrid Reranking.** <br>Shangqing Liu, Cuiyun Gao, Sen Chen, **Lun Yiu Nie**, and Yang Liu. <br>In *IEEE Transactions on Software Engineering* (2020). [[Link]](https://doi.org/10.1109/TSE.2020.3038681)
 
 
-## Contact
-
-Email: [nlx20@mails.tsinghua.edu.cn](mailto:nlx20@mails.tsinghua.edu.cn) / [flitternie@gmail.com](mailto:flitternie@gmail.com)  
-Department of Computer Science and Technology, Tsinghua University, Beijing, China
 
