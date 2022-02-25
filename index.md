@@ -9,12 +9,30 @@ I completed my Bachelor’s Degree study at the Chinese University of Hong Kong,
 Email: [nlx20@mails.tsinghua.edu.cn](mailto:nlx20@mails.tsinghua.edu.cn) / [flitternie@gmail.com](mailto:flitternie@gmail.com)  
 Address: East Main Building, Tsinghua University, Haidian District, Beijing, China
 
+## Publication [[DBLP]](https://dblp.org/pid/255/5516.html)
+
+### 2022
+**KQA Pro: A Dataset with Explicit Compositional Programs for Complex Question Answering over Knowledge Base** <br>Shulin Cao, Jiaxin Shi, Liangming Pan, **Lunyiu Nie**, Yutong Xiang, Lei Hou, Juanzi Li, Hanwang Zhang, Bin He. <br> To appear in _ACL 2022_ (Long Paper)
+
+**Code Structure Guided Transformer for Source Code Summarization** <br>Shuzheng Gao; Cuiyun Gao; Yulan He; Jichuan Zeng; **Lunyiu Nie**; Xin Xia; Michael Lyu. <br> To appear in _ACM Transactions on Software Engineering and Methodology (TOSEM)_
+### 2021
+
+**CoreGen: Contextualized Code Representation Learning for Commit Message Generation.** <br>**Lunyiu Nie**, Cuiyun Gao, Zhicong Zhong, Wai Lam, Yang Liu, and Zenglin Xu. <br>In *Neurocomputing* (2021). [[Link]](https://doi.org/10.1016/j.neucom.2021.05.039)
+
+**Unstructured Knowledge Access in Task-oriented Dialog Modeling using Language Inference, Knowledge Retrieval and Knowledge-Integrative Response Generation.**
+<br>Mudit Chaudhary, Borislav Dzodzo, Sida Huang, Chun Hei Lo, Mingzhi Lyu, **Lunyiu Nie**, Jinbo Xing, Tianhua Zhang, Xiaoying Zhang, Jingyan Zhou, Hong Cheng, Wai Lam, Helen Meng. <br> In *AAAI-21 DSTC9 Workshop* (2021). [[Link]](https://arxiv.org/abs/2101.06066)
+
+### 2020
+
+**ATOM: Commit Message
+Generation Based on Abstract Syntax Tree and Hybrid Reranking.** <br>Shangqing Liu, Cuiyun Gao, Sen Chen, **Lunyiu Nie**, and Yang Liu. <br>In *IEEE Transactions on Software Engineering (TSE)* (2020). [[Link]](https://doi.org/10.1109/TSE.2020.3038681)
+
 ## Education
 
 ### Tsinghua University
 
 #### M.S. in Computer Science and Technology <br> *2020/09 - Present*
-- 2021, Tsinghua's Friend - Weihai Scholarship
+- 2021, Tsinghua Weihai Scholarship
 
 ### The Chinese University of Hong Kong    
 
@@ -24,20 +42,4 @@ Address: East Main Building, Tsinghua University, Haidian District, Beijing, Chi
 -	2017&18, Department Academic Excellence Scholarship
 -	2017, HKSAR Government Scholarship Reaching Out Award
 -	2016, EY Scholarship & Wu Yee Sun College Global Learning Award
-
-## Publication [[DBLP]](https://dblp.org/pid/255/5516.html)
-
-### 2021
-
-**CoreGen: Contextualized Code Representation Learning for Commit Message Generation.** <br>**Lun Yiu Nie**, Cuiyun Gao, Zhicong Zhong, Wai Lam, Yang Liu, and Zenglin Xu. <br>In *Neurocomputing* (2021). [[Link]](https://doi.org/10.1016/j.neucom.2021.05.039)
-
-**Unstructured Knowledge Access in Task-oriented Dialog Modeling using Language Inference, Knowledge Retrieval and Knowledge-Integrative Response Generation.**
-<br>Mudit Chaudhary, Borislav Dzodzo, Sida Huang, Chun Hei Lo, Mingzhi Lyu, **Lun Yiu Nie**, Jinbo Xing, Tianhua Zhang, Xiaoying Zhang, Jingyan Zhou, Hong Cheng, Wai Lam, Helen Meng. <br> In *AAAI-21 DSTC9 Workshop* (2021). [[Link]](https://arxiv.org/abs/2101.06066)
-
-### 2020
-
-**ATOM: Commit Message
-Generation Based on Abstract Syntax Tree and Hybrid Reranking.** <br>Shangqing Liu, Cuiyun Gao, Sen Chen, **Lun Yiu Nie**, and Yang Liu. <br>In *IEEE Transactions on Software Engineering* (2020). [[Link]](https://doi.org/10.1109/TSE.2020.3038681)
-
-
 
