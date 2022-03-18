@@ -12,9 +12,9 @@ Address: East Main Building, Tsinghua University, Haidian District, Beijing, Chi
 ## Publication [[DBLP]](https://dblp.org/pid/255/5516.html)
 
 ### 2022
-**KQA Pro: A Dataset with Explicit Compositional Programs for Complex Question Answering over Knowledge Base** <br>Shulin Cao, Jiaxin Shi, Liangming Pan, **Lunyiu Nie**, Yutong Xiang, Lei Hou, Juanzi Li, Hanwang Zhang, Bin He. <br> To appear in _ACL 2022_ (Long Paper)
+**KQA Pro: A Dataset with Explicit Compositional Programs for Complex Question Answering over Knowledge Base** <br>Shulin Cao, Jiaxin Shi, Liangming Pan, **Lunyiu Nie**, Yutong Xiang, Lei Hou, Juanzi Li, Hanwang Zhang, Bin He. <br> To appear in _ACL 2022_ (Long Paper). [[Link]](https://arxiv.org/abs/2007.03875)
 
-**Code Structure Guided Transformer for Source Code Summarization** <br>Shuzheng Gao; Cuiyun Gao; Yulan He; Jichuan Zeng; **Lunyiu Nie**; Xin Xia; Michael Lyu. <br> To appear in _ACM Transactions on Software Engineering and Methodology (TOSEM)_
+**Code Structure Guided Transformer for Source Code Summarization** <br>Shuzheng Gao; Cuiyun Gao; Yulan He; Jichuan Zeng; **Lunyiu Nie**; Xin Xia; Michael Lyu. <br> To appear in _ACM Transactions on Software Engineering and Methodology (TOSEM)_. [[Link]](https://arxiv.org/abs/2104.09340)
 ### 2021
 
 **CoreGen: Contextualized Code Representation Learning for Commit Message Generation.** <br>**Lunyiu Nie**, Cuiyun Gao, Zhicong Zhong, Wai Lam, Yang Liu, and Zenglin Xu. <br>In *Neurocomputing* (2021). [[Link]](https://doi.org/10.1016/j.neucom.2021.05.039)
