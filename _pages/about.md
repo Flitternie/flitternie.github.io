@@ -79,7 +79,7 @@ Shangqing Liu, Cuiyun Gao, Sen Chen, **Lunyiu Nie**, Yang Liu.
 
 </div>
 
-# 🎖 Honors and Awards
+# 🏆 Honors and Awards
 - *2021*    Tsinghua University - Weihai Talent Scholarship. 
 - *2018-20* CUHK Faculty Dean's List (Top 10%).
 - *2019-20* CUHK Wu Yee Sun Collge Master's List (Ranked 1st/major).
