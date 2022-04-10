@@ -44,7 +44,7 @@ Shulin Cao, Jiaxin Shi, Liangming Pan, **Lunyiu Nie**, Yutong Xiang, Lei Hou, Ju
 </div>
 
 <div class='paper-box-text' markdown="1">
-- [Code Structure Guided Transformer for Source Code Summarization](https://arxiv.org/abs/2104.09340)
+[Code Structure Guided Transformer for Source Code Summarization](https://arxiv.org/abs/2104.09340)
 
 Shuzheng Gao, Cuiyun Gao, Yulan He, Jichuan Zeng, **Lunyiu Nie**, Xin Xia, Michael Lyu
 
@@ -53,7 +53,7 @@ Shuzheng Gao, Cuiyun Gao, Yulan He, Jichuan Zeng, **Lunyiu Nie**, Xin Xia, Micha
 </div>
 
 <div class='paper-box-text' markdown="1">
-- [CoreGen: Contextualized Code Representation Learning for Commit Message Generation](https://doi.org/10.1016/j.neucom.2021.05.039)
+[CoreGen: Contextualized Code Representation Learning for Commit Message Generation](https://doi.org/10.1016/j.neucom.2021.05.039)
 
 **Lunyiu Nie**, Cuiyun Gao, Zhicong Zhong, Wai Lam, Yang Liu, Zenglin Xu
 
@@ -62,7 +62,7 @@ Shuzheng Gao, Cuiyun Gao, Yulan He, Jichuan Zeng, **Lunyiu Nie**, Xin Xia, Micha
 </div>
 
 <div class='paper-box-text' markdown="1">
-- [Unstructured Knowledge Access in Task-oriented Dialog Modeling using Language Inference, Knowledge Retrieval and Knowledge-Integrative Response Generation](https://arxiv.org/abs/2101.06066)
+[Unstructured Knowledge Access in Task-oriented Dialog Modeling using Language Inference, Knowledge Retrieval and Knowledge-Integrative Response Generation](https://arxiv.org/abs/2101.06066)
 
 Mudit Chaudhary, Borislav Dzodzo, Sida Huang, Chun Hei Lo, Mingzhi Lyu, **Lunyiu Nie**, Jinbo Xing, Tianhua Zhang, Xiaoying Zhang, Jingyan Zhou, Hong Cheng, Wai Lam, Helen Meng
 
@@ -71,7 +71,7 @@ Mudit Chaudhary, Borislav Dzodzo, Sida Huang, Chun Hei Lo, Mingzhi Lyu, **Lunyiu
 </div>
 
 <div class='paper-box-text' markdown="1">
-- [ATOM: Commit Message Generation Based on Abstract Syntax Tree and Hybrid Reranking](https://doi.org/10.1109/TSE.2020.3038681)
+[ATOM: Commit Message Generation Based on Abstract Syntax Tree and Hybrid Reranking](https://doi.org/10.1109/TSE.2020.3038681)
 
 Shangqing Liu, Cuiyun Gao, Sen Chen, **Lunyiu Nie**, Yang Liu.
 
@@ -80,20 +80,16 @@ Shangqing Liu, Cuiyun Gao, Sen Chen, **Lunyiu Nie**, Yang Liu.
 </div>
 
 # 🎖 Honors and Awards
-- *2021* Tsinghua University - Weihai Talent Scholarship. 
+- *2021*    Tsinghua University - Weihai Talent Scholarship. 
 - *2018-20* CUHK Faculty Dean's List (Top 10%).
 - *2019-20* CUHK Wu Yee Sun Collge Master's List (Ranked 1st/major).
 - *2017-18* Deparment Academic Excellence Award.
-- *2017* HKSAR Government Scholarship.
+- *2017*    HKSAR Government Scholarship.
 
 # 📖 Educations
 - *2020.09 - 2023.07 (now)*, Tsinghua University, Master’s Degree in Computer Science and Technology. CGPA: 3.76 / 4.00. 
 - *2015.08 - 2020.07*, The Chinese University of Hong Kong, B.B.A. (Honours) Degree, Second Major in Computer Science. CGPA: 3.60 / 4.00, Computer Science Major GPA: 3.70 / 4.00.
 
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
-
-# 💻 Internship Experience
+# 💻 Internships
 - *2021.07 - 2022.03*, Alibaba Cloud, Beijing.
 - *2018.07 - 2018.08*, Institute of Computing Technology, Chinese Academy of Sciences, Beijing.
