@@ -27,57 +27,57 @@ I completed my Bachelor’s Degree study at the Chinese University of Hong Kong,
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-text' markdown="1">
 GraphQ IR: Unifying Semantic Parsing of Graph Query Language with Intermediate Representation
 
 **Lunyiu Nie**, Shulin Cao, Jiaxin Shi, Qi Tian, Lei Hou, Juanzi Li, Jidong Zhai
 
 - Under Review
-</div>
+</div></div>
 
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-text' markdown="1">
 [KQA Pro: A Dataset with Explicit Compositional Programs for Complex Question Answering over Knowledge Base](https://arxiv.org/abs/2007.03875)
 
 Shulin Cao, Jiaxin Shi, Liangming Pan, **Lunyiu Nie**, Yutong Xiang, Lei Hou, Juanzi Li, Hanwang Zhang, Bin He
 
 - To appear in _ACL 2022_ (Long Paper)
-</div>
+</div></div>
 
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-text' markdown="1">
 [Code Structure Guided Transformer for Source Code Summarization](https://arxiv.org/abs/2104.09340)
 
 Shuzheng Gao, Cuiyun Gao, Yulan He, Jichuan Zeng, **Lunyiu Nie**, Xin Xia, Michael Lyu
 
 - To appear in _ACM Transactions on Software Engineering and Methodology (TOSEM)_
 
-</div>
+</div></div>
 
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-text' markdown="1">
 [CoreGen: Contextualized Code Representation Learning for Commit Message Generation](https://doi.org/10.1016/j.neucom.2021.05.039)
 
 **Lunyiu Nie**, Cuiyun Gao, Zhicong Zhong, Wai Lam, Yang Liu, Zenglin Xu
 
 - In *Neurocomputing* (2021)
 
-</div>
+</div></div>
 
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-text' markdown="1">
 [Unstructured Knowledge Access in Task-oriented Dialog Modeling using Language Inference, Knowledge Retrieval and Knowledge-Integrative Response Generation](https://arxiv.org/abs/2101.06066)
 
 Mudit Chaudhary, Borislav Dzodzo, Sida Huang, Chun Hei Lo, Mingzhi Lyu, **Lunyiu Nie**, Jinbo Xing, Tianhua Zhang, Xiaoying Zhang, Jingyan Zhou, Hong Cheng, Wai Lam, Helen Meng
 
 - In *AAAI-21 DSTC9 Workshop* (2021)
 
-</div>
+</div></div>
 
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-text' markdown="1">
 [ATOM: Commit Message Generation Based on Abstract Syntax Tree and Hybrid Reranking](https://doi.org/10.1109/TSE.2020.3038681)
 
 Shangqing Liu, Cuiyun Gao, Sen Chen, **Lunyiu Nie**, Yang Liu.
 
 - In *IEEE Transactions on Software Engineering (TSE)* (2020)
 
-</div>
+</div></div>
 
 # 🏆 Honors and Awards
 - *2021*    Tsinghua University - Weihai Talent Scholarship. 
