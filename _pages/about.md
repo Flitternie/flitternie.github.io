@@ -27,11 +27,10 @@ I completed my Bachelor’s Degree study at the Chinese University of Hong Kong,
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
-GraphQ IR: Unifying Semantic Parsing of Graph Query Language with Intermediate Representation
+[GraphQ IR: Unifying Semantic Parsing of Graph Query Language with Intermediate Representation](https://arxiv.org/abs/2205.12078)
 
 **Lunyiu Nie**, Shulin Cao, Jiaxin Shi, Qi Tian, Lei Hou, Juanzi Li, Jidong Zhai
 
-- Under Review
 - TLDR: We propose GraphQ IR, a novel intermediate representation for unifying the semantic parsing of graph query languages (e.g., SPARQL, Cypher, Lambda-DCS, KoPL, etc). Experiments show that our approach can consistently achieve state-of-the-art performance on benchmarks *Overnight*, *KQA Pro* and *MetaQA*, with significant accuracy improvement under compositional generalization and few-shot learning settings. We also implement a source-to-source compiler that can achieve translation among multiple graph query languages.
 
 ------
@@ -39,7 +38,7 @@ GraphQ IR: Unifying Semantic Parsing of Graph Query Language with Intermediate R
 
 Shulin Cao, Jiaxin Shi, Liangming Pan, **Lunyiu Nie**, Yutong Xiang, Lei Hou, Juanzi Li, Hanwang Zhang, Bin He
 
-- To appear in _ACL 2022_ (Long Paper)
+- In _ACL 2022_ (Long Paper)
 - TLDR: We introduce KQA Pro, a dataset for complex KBQA including ~120K diverse natural language questions, which is currently also the largest corpus for NLQ-to-SPARQL task. The questions are very diverse and challenging, requiring multiple reasoning capabilities including compositional reasoning, multi-hop reasoning, quantitative comparison, set operations, and etc.
 
 ------
