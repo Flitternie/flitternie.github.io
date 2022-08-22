@@ -35,7 +35,7 @@ I completed my Bachelor’s Degree study at the Chinese University of Hong Kong,
 - TLDR: Current PLM-based neural semantic parsers are often suffering from hallucination issues due to their negligence of logical form structures and lacking in intrinsic interpretability. To alleviate the problems, we propose a novel hierarchical decoder architecture and two intermediate supervision tasks that explicitly guiding the PLMs to address the structural information alongside the fine-tuning. By probing the PLM inner layer outputs, our work also provides a novel testbed for interpreting the intermediate process of logical form generation.
 
 ------
-[GraphQ IR: Unifying Semantic Parsing of Graph Query Language with Intermediate Representation](https://arxiv.org/abs/2205.12078)
+[GraphQ IR: Unifying Semantic Parsing of Graph Query Language with Intermediate Representation](papers/GraphQ_IR.pdf)
 
 **Lunyiu Nie**, Shulin Cao, Jiaxin Shi, Qi Tian, Lei Hou, Juanzi Li, Jidong Zhai
 
