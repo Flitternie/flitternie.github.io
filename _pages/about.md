@@ -30,7 +30,7 @@ I completed my Bachelor’s Degree study at the Chinese University of Hong Kong,
 # 📝 Publications 
 [Guiding the PLMs with Semantic Anchors as Intermediate Supervision: Towards Interpretable Semantic Parsing](papers/SEAN.pdf)
 
-**Lunyiu Nie^**, Jiuding Sun^, Yanling Wang, Lun Du, Han Shi, Dongmei Zhang, Lei Hou, Juanzi Li, Jidong Zhai  
+**Lunyiu Nie\***, Jiuding Sun\*, Yanling Wang, Lun Du, Han Shi, Dongmei Zhang, Lei Hou, Juanzi Li, Jidong Zhai  
 
 - TLDR: Current PLM-based neural semantic parsers are often suffering from hallucination issues due to their negligence of logical form structures and lacking in intrinsic interpretability. To alleviate the problems, we propose a novel hierarchical decoder architecture and two intermediate supervision tasks that explicitly guiding the PLMs to address the structural information alongside the fine-tuning. By probing the PLM inner layer outputs, our work also provides a novel testbed for interpreting the intermediate process of logical form generation.
 
@@ -40,6 +40,7 @@ I completed my Bachelor’s Degree study at the Chinese University of Hong Kong,
 **Lunyiu Nie**, Shulin Cao, Jiaxin Shi, Qi Tian, Lei Hou, Juanzi Li, Jidong Zhai
 
 - TLDR: We propose GraphQ IR, a novel intermediate representation that aims to bridge the semantic gap between natural language and graph query languages (e.g., SPARQL, Cypher, Lambda-DCS, KoPL, etc). With GraphQ IR as a middleware, we also implement a transpiler that supports translation among multiple graph query languages. Experiments show that our approach can consistently achieve SOTA performance on several semantic parsing benchmarks *Overnight*, *KQA Pro*, *GrailQA* and *MetaQA-Cypher*, with promising generalizability under non-IID (compositional generalization and zero-shot) & low-resource settings. 
+
 ------
 [KQA Pro: A Dataset with Explicit Compositional Programs for Complex Question Answering over Knowledge Base](https://aclanthology.org/2022.acl-long.422/)
 
