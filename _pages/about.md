@@ -21,6 +21,8 @@ I’m Lunyiu Nie, a computer science Master student at Tsinghua University. My a
 
 I completed my Bachelor’s Degree study at the Chinese University of Hong Kong, during which I was advised by Prof. [Helen Meng](https://www.se.cuhk.edu.hk/people/academic-staff/prof-meng-mei-ling-helen/) and Prof. [Wai Lam](http://www1.se.cuhk.edu.hk/~textmine/). Previously I also worked as a research intern at the Institute of Computing Technology, Chinese Academy of Sciences co-supervised by Prof. [Yungang Bao](http://acs.ict.ac.cn/baoyg/) and Prof. [Qun Huang](https://huangqundl.github.io/).
 
+A more complete CV can be found [here](cv.pdf).
+
 
 # 🔥 News
 - *2022.06*: I've joined Microsoft Research Asia as a summer intern at Data, Knowledge, and Intelligence Group.
@@ -28,7 +30,7 @@ I completed my Bachelor’s Degree study at the Chinese University of Hong Kong,
  
 
 # 📝 Publications 
-[Guiding the PLMs with Semantic Anchors as Intermediate Supervision: Towards Interpretable Semantic Parsing](papers/SEAN.pdf)
+[Guiding the PLMs with Semantic Anchors as Intermediate Supervision: Towards Interpretable Semantic Parsing](https://arxiv.org/abs/2210.01425/)
 
 **Lunyiu Nie\***, Jiuding Sun\*, Yanling Wang, Lun Du, Han Shi, Dongmei Zhang, Lei Hou, Juanzi Li, Jidong Zhai  
 
@@ -94,6 +96,6 @@ Shangqing Liu, Cuiyun Gao, Sen Chen, **Lunyiu Nie**, Yang Liu.
 - *2015.08 - 2020.07*, The Chinese University of Hong Kong, B.B.A. (Honours) Degree, Second Major in Computer Science. CGPA: 3.60 / 4.00, Computer Science GPA: 3.70 / 4.00.
 
 # 💻 Internships
-- *2022.06 - Present*, Microsoft Research Asia
+- *2022.06 - 2022.09*, Microsoft Research Asia
 - *2021.07 - 2022.03*, Alibaba Cloud
 - *2018.07 - 2018.08*, Institute of Computing Technology, Chinese Academy of Sciences
