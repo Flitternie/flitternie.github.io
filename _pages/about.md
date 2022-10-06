@@ -21,7 +21,7 @@ I’m Lunyiu Nie, a computer science Master student at Tsinghua University. My a
 
 I completed my Bachelor’s Degree study at the Chinese University of Hong Kong, during which I was advised by Prof. [Helen Meng](https://www.se.cuhk.edu.hk/people/academic-staff/prof-meng-mei-ling-helen/) and Prof. [Wai Lam](http://www1.se.cuhk.edu.hk/~textmine/). Previously I also worked as a research intern at the Institute of Computing Technology, Chinese Academy of Sciences co-supervised by Prof. [Yungang Bao](http://acs.ict.ac.cn/baoyg/) and Prof. [Qun Huang](https://huangqundl.github.io/).
 
-A more complete CV can be found [here](cv.pdf).
+A more complete CV can be found [here](CV.pdf).
 
 
 # 🔥 News
