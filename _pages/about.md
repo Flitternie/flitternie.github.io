@@ -25,6 +25,7 @@ A more complete CV can be found [here](CV.pdf).
 
 
 # 🔥 News
+- *2022.10*: Our work _GraphQ IR_ has been accepted by EMNLP 2022 as a long paper. &nbsp;🎉 
 - *2022.06*: I've joined Microsoft Research Asia as a summer intern at Data, Knowledge, and Intelligence Group.
 - *2022.05*: Our work _KQA Pro_ has been accepted by ACL 2022 as a long paper. &nbsp;🎉
  
@@ -41,6 +42,7 @@ A more complete CV can be found [here](CV.pdf).
 
 **Lunyiu Nie**, Shulin Cao, Jiaxin Shi, Qi Tian, Lei Hou, Juanzi Li, Jidong Zhai
 
+- To appear in _EMNLP 2022_ (Long Paper)
 - TLDR: We propose GraphQ IR, a novel intermediate representation that aims to bridge the semantic gap between natural language and graph query languages (e.g., SPARQL, Cypher, Lambda-DCS, KoPL, etc). With GraphQ IR as a middleware, we also implement a transpiler that supports translation among multiple graph query languages. Experiments show that our approach can consistently achieve SOTA performance on several semantic parsing benchmarks *Overnight*, *KQA Pro*, *GrailQA* and *MetaQA-Cypher*, with promising generalizability under non-IID (compositional generalization and zero-shot) & low-resource settings. 
 
 ------
