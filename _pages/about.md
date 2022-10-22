@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m Lunyiu Nie, a computer science Master student at Tsinghua University. My advisor is Prof. [Jidong Zhai](https://pacman.cs.tsinghua.edu.cn/~zjd/) and I am also co-advised by Prof. [Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/). My research interests mainly lie in the intersection of programming language and natural language, including NL-to-code generation (semantic parsing) and code representation learning.
+I’m Lunyiu Nie, a computer science Master student at Tsinghua University. My advisor is Prof. [Jidong Zhai](https://pacman.cs.tsinghua.edu.cn/~zjd/) and I also receive advice from Prof. [Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/). My research interests mainly lie in the intersection of programming language and natural language. For the NL-side, I focused on semantic parsing and struture modeling. For the PL-side, my interests include program synthesis and AI for software engineering.
 
 I completed my Bachelor’s Degree study at the Chinese University of Hong Kong, during which I was advised by Prof. [Helen Meng](https://www.se.cuhk.edu.hk/people/academic-staff/prof-meng-mei-ling-helen/) and Prof. [Wai Lam](http://www1.se.cuhk.edu.hk/~textmine/). Previously I also worked as a research intern at the Institute of Computing Technology, Chinese Academy of Sciences co-supervised by Prof. [Yungang Bao](http://acs.ict.ac.cn/baoyg/) and Prof. [Qun Huang](https://huangqundl.github.io/).
 
@@ -26,7 +26,7 @@ A more complete CV can be found [here](CV.pdf).
 
 # 🔥 News
 - *2022.10*: Our work _GraphQ IR_ has been accepted by EMNLP 2022 as a long paper. &nbsp;🎉 
-- *2022.06*: I've joined Microsoft Research Asia as a summer intern at Data, Knowledge, and Intelligence Group.
+- *2022.06*: I joined Microsoft Research Asia as a summer intern at Data, Knowledge, and Intelligence Group.
 - *2022.05*: Our work _KQA Pro_ has been accepted by ACL 2022 as a long paper. &nbsp;🎉
  
 
@@ -74,7 +74,7 @@ Shuzheng Gao, Cuiyun Gao, Yulan He, Jichuan Zeng, **Lunyiu Nie**, Xin Xia, Micha
 
 Mudit Chaudhary, Borislav Dzodzo, Sida Huang, Chun Hei Lo, Mingzhi Lyu, **Lunyiu Nie**, Jinbo Xing, Tianhua Zhang, Xiaoying Zhang, Jingyan Zhou, Hong Cheng, Wai Lam, Helen Meng
 
-- In *AAAI-21 DSTC9 Workshop* (2021), Finalist of The 9th Dialog System Technology Challenge (DSTC9) Track 1.
+- In *AAAI-21 DSTC9 Workshop* (2021), Finalist of the 9th Dialog System Technology Challenge (DSTC9) Track 1.
 - TLDR: We propose a pipeline framework for task-oriented dialog modeling with unstructured knowledge access. Our methods can significantly improve the performance of dialog systems and generate high-quality responses, achieving at least 58.77% improvement on BLEU-4 score over the baseline.
 
 ------
@@ -87,6 +87,8 @@ Shangqing Liu, Cuiyun Gao, Sen Chen, **Lunyiu Nie**, Yang Liu.
 
 
 # 🏆 Honors and Awards
+- *2022*    Tsinghua University - Special Class Scholarship (Highest award for Hong Kong & Macau Student, Top 1%).
+- *2022*    Microsoft Research Asia - Award of Exellence (For outstanding interns).
 - *2021*    Tsinghua University - Weihai Talent Scholarship. 
 - *2018-20* CUHK Faculty Dean's List (Top 10%).
 - *2019-20* CUHK Wu Yee Sun Collge Master's List (Ranked 1st/major).
