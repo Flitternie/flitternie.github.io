@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m Lunyiu Nie, a computer science Master student at Tsinghua University. My advisor is Prof. [Jidong Zhai](https://pacman.cs.tsinghua.edu.cn/~zjd/) and I also receive advice from Prof. [Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/). My research interests mainly lie in the intersection of programming language and natural language. For the NL-side, I focused on semantic parsing and struture modeling. For the PL-side, my interests include program synthesis and AI for software engineering.
+I’m Lunyiu Nie, a computer science Master student at Tsinghua University. My advisor is Prof. [Jidong Zhai](https://pacman.cs.tsinghua.edu.cn/~zjd/) and I also receive advice from Prof. [Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/). My research interests mainly lie in the intersection of natural language processing and programming languages. For the NL-side, I focused on semantic parsing and struture modeling. For the PL-side, my interests include program synthesis and AI for software engineering.
 
 I completed my Bachelor’s Degree study at the Chinese University of Hong Kong, during which I was advised by Prof. [Helen Meng](https://www.se.cuhk.edu.hk/people/academic-staff/prof-meng-mei-ling-helen/) and Prof. [Wai Lam](http://www1.se.cuhk.edu.hk/~textmine/). Previously I also worked as a research intern at the Institute of Computing Technology, Chinese Academy of Sciences co-supervised by Prof. [Yungang Bao](http://acs.ict.ac.cn/baoyg/) and Prof. [Qun Huang](https://huangqundl.github.io/).
 
@@ -25,16 +25,15 @@ A more complete CV can be found [here](CV.pdf).
 
 
 # 🔥 News
-- *2022.10*: Our work _GraphQ IR_ has been accepted by EMNLP 2022 as a long paper. &nbsp;🎉 
-- *2022.06*: I joined Microsoft Research Asia as a summer intern at Data, Knowledge, and Intelligence Group.
-- *2022.05*: Our work _KQA Pro_ has been accepted by ACL 2022 as a long paper. &nbsp;🎉
+- *2022.11*: Our work _"Guiding the PLMs with Semantic Anchors"_ has been accepted by AAAI 2023 as a long paper. &nbsp;🎉 
+- *2022.10*: Our work _"GraphQ IR"_ has been accepted by EMNLP 2022 as a long paper. &nbsp;🎉 
  
 
 # 📝 Publications 
 [Guiding the PLMs with Semantic Anchors as Intermediate Supervision: Towards Interpretable Semantic Parsing](https://arxiv.org/abs/2210.01425/)
 
 **Lunyiu Nie\***, Jiuding Sun\*, Yanling Wang, Lun Du, Han Shi, Dongmei Zhang, Lei Hou, Juanzi Li, Jidong Zhai  
-
+- To appear in _AAAI 2023_ (Main Track, Long Paper)
 - TLDR: Current PLM-based neural semantic parsers are often suffering from hallucination issues due to their negligence of logical form structures and lacking in intrinsic interpretability. To alleviate the problems, we propose a novel hierarchical decoder architecture and two intermediate supervision tasks that explicitly guiding the PLMs to address the structural information alongside the fine-tuning. By probing the PLM inner layer outputs, our work also provides a novel testbed for interpreting the intermediate process of logical form generation.
 
 ------
@@ -87,7 +86,7 @@ Shangqing Liu, Cuiyun Gao, Sen Chen, **Lunyiu Nie**, Yang Liu.
 
 
 # 🏆 Honors and Awards
-- *2022*    Tsinghua University - Special Class Scholarship (Highest award for Hong Kong & Macau Student, Top 1%).
+- *2022*    Tsinghua University - Special Class Scholarship (**Highest** award from Chinese government for Hong Kong Students, <0.5%).
 - *2022*    Microsoft Research Asia - Award of Exellence (For outstanding interns).
 - *2021*    Tsinghua University - Weihai Talent Scholarship. 
 - *2018-20* CUHK Faculty Dean's List (Top 10%).
