@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m Lunyiu Nie, a computer science Master student at Tsinghua University. My advisor is Prof. [Jidong Zhai](https://pacman.cs.tsinghua.edu.cn/~zjd/) and I also receive advice from Prof. [Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/). My research interests mainly lie in the intersection of natural language processing and programming languages. For the NL-side, I focused on semantic parsing and struture modeling. For the PL-side, my interests include program synthesis and AI for software engineering.
+I’m Lunyiu Nie, a computer science Master student at Tsinghua University. My advisor is Prof. [Jidong Zhai](https://pacman.cs.tsinghua.edu.cn/~zjd/) and I also receive advice from Prof. [Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/). My research interests mainly lie in the intersection of **Natural Language Processing** and **Programming Languages**. For the NL-side, I focused on semantic parsing and structure modeling. For the PL-side, my interests include program synthesis and AI-augmented software engineering.
 
 I completed my Bachelor’s Degree study at the Chinese University of Hong Kong, during which I was advised by Prof. [Helen Meng](https://www.se.cuhk.edu.hk/people/academic-staff/prof-meng-mei-ling-helen/) and Prof. [Wai Lam](http://www1.se.cuhk.edu.hk/~textmine/). Previously I also worked as a research intern at the Institute of Computing Technology, Chinese Academy of Sciences co-supervised by Prof. [Yungang Bao](http://acs.ict.ac.cn/baoyg/) and Prof. [Qun Huang](https://huangqundl.github.io/).
 
-A more complete CV can be found [here](CV.pdf).
+**I am looking for a 2023 Fall PhD position now!** A more complete CV can be found [here](CV.pdf).
 
 
 # 🔥 News
@@ -37,7 +37,7 @@ A more complete CV can be found [here](CV.pdf).
 - TLDR: Current PLM-based neural semantic parsers are often suffering from hallucination issues due to their negligence of logical form structures and lacking in intrinsic interpretability. To alleviate the problems, we propose a novel hierarchical decoder architecture and two intermediate supervision tasks that explicitly guiding the PLMs to address the structural information alongside the fine-tuning. By probing the PLM inner layer outputs, our work also provides a novel testbed for interpreting the intermediate process of logical form generation.
 
 ------
-[GraphQ IR: Unifying Semantic Parsing of Graph Query Language with Intermediate Representation](papers/GraphQ_IR.pdf)
+[GraphQ IR: Unifying the Semantic Parsing of Graph Query Languages with One Intermediate Representation](https://arxiv.org/abs/2205.12078)
 
 **Lunyiu Nie**, Shulin Cao, Jiaxin Shi, Qi Tian, Lei Hou, Juanzi Li, Jidong Zhai
 
