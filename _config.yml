@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Lunyiu's Homepage"
-description              : "CS Master Student focusing on Code&NLP."
+description              : "CS PhD Student focusing on Code&AI."
 repository               : "flitternie/flitternie.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Lunyiu Nie 聂麟骁"
   avatar           : "images/profile.jpg"
-  bio              : "Tsinghua University"
-  location         : "Beijing, China"
+  bio              : "UT Austin"
+  location         : "Austin, TX"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=IwXgGTsAAAAJ"
-  email            : "nlx20@mails.tsinghua.edu.cn"
+  email            : "lynie@utexas.edu"
   researchgate     : # https://www.researchgate.net/profile/Lun-Yiu-Nie # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
