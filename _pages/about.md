@@ -17,14 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m Lunyiu Nie, a computer science Master student at Tsinghua University. My advisor is Prof. [Jidong Zhai](https://pacman.cs.tsinghua.edu.cn/~zjd/) and I also receive advice from Prof. [Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/). My research interests mainly lie in the intersection of **Natural Language Processing** and **Programming Languages**. For the NL-side, I focused on semantic parsing and structure modeling. For the PL-side, my interests include program synthesis and AI-augmented software engineering.
+I’m Lunyiu Nie, a computer science PhD student at UT Austin advised by Prof. [Swarat Chaudhuri](https://www.cs.utexas.edu/~swarat/). My research interests mainly lie in the intersection of **Natural Language Processing** and **Programming Languages**. 
 
-I completed my Bachelor’s Degree study at the Chinese University of Hong Kong, during which I was advised by Prof. [Helen Meng](https://www.se.cuhk.edu.hk/people/academic-staff/prof-meng-mei-ling-helen/) and Prof. [Wai Lam](http://www1.se.cuhk.edu.hk/~textmine/). Previously I also worked as a research intern at the Institute of Computing Technology, Chinese Academy of Sciences co-supervised by Prof. [Yungang Bao](http://acs.ict.ac.cn/baoyg/) and Prof. [Qun Huang](https://huangqundl.github.io/).
-
-**I am looking for a 2023 Fall PhD position now!** A more complete CV can be found [here](CV.pdf).
-
+I completed my Master's Degree at Tsinghua University advised by Prof. [Jidong Zhai](https://pacman.cs.tsinghua.edu.cn/~zjd/) and I also received advice from Prof. [Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/). I obtained my Bachelor’s Degree at the Chinese University of Hong Kong, during which I was advised by Prof. [Helen Meng](https://www.se.cuhk.edu.hk/people/academic-staff/prof-meng-mei-ling-helen/) and Prof. [Wai Lam](http://www1.se.cuhk.edu.hk/~textmine/). Previously I also worked as a research intern at ICT, CAS co-supervised by Prof. [Yungang Bao](http://acs.ict.ac.cn/baoyg/) and Prof. [Qun Huang](https://huangqundl.github.io/).
 
 # 🔥 News
+- *2023.08*: Started my PhD journey! Nice to see you all at Austin! 🙌
 - *2022.11*: Our work _"Guiding the PLMs with Semantic Anchors"_ has been accepted by AAAI 2023 as a long paper. &nbsp;🎉 
 - *2022.10*: Our work _"GraphQ IR"_ has been accepted by EMNLP 2022 as a long paper. &nbsp;🎉 
  
