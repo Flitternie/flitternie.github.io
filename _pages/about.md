@@ -19,7 +19,7 @@ redirect_from:
 
 I’m Lunyiu Nie, a computer science PhD student at UT Austin advised by Prof. [Swarat Chaudhuri](https://www.cs.utexas.edu/~swarat/). My research interests mainly lie in the intersection of **Natural Language Processing** and **Programming Languages**. 
 
-I completed my Master's Degree at Tsinghua University advised by Prof. [Jidong Zhai](https://pacman.cs.tsinghua.edu.cn/~zjd/) and I also received advice from Prof. [Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/). I obtained my Bachelor’s Degree at the Chinese University of Hong Kong, during which I was advised by Prof. [Helen Meng](https://www.se.cuhk.edu.hk/people/academic-staff/prof-meng-mei-ling-helen/) and Prof. [Wai Lam](http://www1.se.cuhk.edu.hk/~textmine/). Previously I also worked as a research intern at ICT, CAS co-supervised by Prof. [Yungang Bao](http://acs.ict.ac.cn/baoyg/) and Prof. [Qun Huang](https://huangqundl.github.io/).
+I completed my computer science Master's Degree at Tsinghua University. My advisor at Tsinghua was Prof. [Jidong Zhai](https://pacman.cs.tsinghua.edu.cn/~zjd/) and I also received advice from Prof. [Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/). I obtained my Bachelor’s Degree at the Chinese University of Hong Kong, during which I was advised by Prof. [Helen Meng](https://www.se.cuhk.edu.hk/people/academic-staff/prof-meng-mei-ling-helen/) and Prof. [Wai Lam](http://www1.se.cuhk.edu.hk/~textmine/). Previously I also worked as a research intern at ICT, CAS under the co-supervision of Prof. [Yungang Bao](http://acs.ict.ac.cn/baoyg/) and Prof. [Qun Huang](https://huangqundl.github.io/).
 
 # 🔥 News
 - *2023.08*: Started my PhD journey! Nice to see you all at Austin! 🙌
