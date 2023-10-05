@@ -84,17 +84,19 @@ Shangqing Liu, Cuiyun Gao, Sen Chen, **Lunyiu Nie**, Yang Liu.
 
 
 # 🏆 Honors and Awards
-- *2022*    Tsinghua University - Special Class Scholarship (**Highest** award from Chinese government for Hong Kong Students, <0.5%).
-- *2022*    Microsoft Research Asia - Award of Exellence (For outstanding interns).
-- *2021*    Tsinghua University - Weihai Talent Scholarship. 
+- *2022*    Tsinghua Outstanding Thesis Award & Outstanding Graduate Award (**Top 1** in CS Department)
+- *2022*    Tsinghua Special Class Scholarship (**Highest** award for Hong Kong Students, <0.5%).
+- *2022*    Microsoft Research Asia - Award of Excellence.
+- *2021*    Tsinghua Comprehensive Excellence Scholarship. 
 - *2018-20* CUHK Faculty Dean's List (Top 10%).
 - *2019-20* CUHK Wu Yee Sun Collge Master's List (Ranked 1st/major).
 - *2017-18* Deparment Academic Excellence Award.
 - *2017*    HKSAR Government Scholarship.
 
 # 📖 Educations
-- *2020.09 - 2023.07 (now)*, Tsinghua University, Master’s Degree in Computer Science and Technology. CGPA: 3.76 / 4.00. 
-- *2015.08 - 2020.07*, The Chinese University of Hong Kong, B.B.A. (Honours) Degree, Second Major in Computer Science. CGPA: 3.60 / 4.00, Computer Science GPA: 3.70 / 4.00.
+- *2023.08 - Now*, The University of Texas at Austin, Ph.D. Student in Computer Science.
+- *2020.09 - 2023.06*, Tsinghua University, M.Sc. in Computer Science and Technology. 
+- *2015.08 - 2020.07*, The Chinese University of Hong Kong, B.B.A. (Honours) in Professional Accountancy, Second Major in Computer Science.
 
 # 💻 Internships
 - *2022.06 - 2022.09*, Microsoft Research Asia
